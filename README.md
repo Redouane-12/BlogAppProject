@@ -1,1 +1,1 @@
-<h1> BLOG APP CHALLENGE </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F70000&random=false&width=435&lines=BLOG+APP+CHALLENGE" alt="Typing SVG" /></a>
